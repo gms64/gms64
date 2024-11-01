@@ -53,8 +53,9 @@ tools:
 
 ### about me
 
-- 🔭 i’m currently working on: [my personal site](https://gregondata.com/) & [next novel project](https://nextnovelproject.com/)
-- 🌱 i’m currently learning: how to make node and python play nice together
+- 🔭 i’m *was* working on: [my personal site](https://gregondata.com/) & [next novel project](https://nextnovelproject.com/)
+- 🔭 i’m currently working on: [a site about simple blogging platofrms](https://verysimpleblogging.com/)
+- 🌱 i’m currently learning: how to make this pretty and performant with little to no effort
 - 📫 how to reach me: here, reddit, or [my contact page](https://gregondata.com/contact)
 - ⚡ fun fact: the average human is 60% water; i'm 60% coffee.
 
